@@ -136,7 +136,7 @@
           <dmndi:StrokeColor red="0" green="0" blue="0" />
           <dmndi:FontColor red="0" green="0" blue="0" />
         </dmndi:DMNStyle>
-        <dc:Bounds x="-280" y="200" width="100" height="50" />
+        <dc:Bounds x="-980" y="100" width="100" height="50" />
         <dmndi:DMNLabel id="_0535C1F5-6EBE-464F-B897-BABDC55B025E" />
       </dmndi:DMNShape>
       <dmndi:DMNShape id="dmnshape-drg-_921a00ec-6199-4073-b139-494835a422ce" dmnElementRef="_921a00ec-6199-4073-b139-494835a422ce" isCollapsed="false">
@@ -145,7 +145,7 @@
           <dmndi:StrokeColor red="0" green="0" blue="0" />
           <dmndi:FontColor red="0" green="0" blue="0" />
         </dmndi:DMNStyle>
-        <dc:Bounds x="-520" y="200" width="100" height="50" />
+        <dc:Bounds x="-1200" y="100" width="100" height="50" />
         <dmndi:DMNLabel id="_7B62721A-8402-4020-9EDA-48D5B26D6136" />
       </dmndi:DMNShape>
       <dmndi:DMNShape id="dmnshape-drg-_7c68efef-3b20-4807-8d15-7f55995cc8fd" dmnElementRef="_7c68efef-3b20-4807-8d15-7f55995cc8fd" isCollapsed="false">
@@ -154,16 +154,16 @@
           <dmndi:StrokeColor red="0" green="0" blue="0" />
           <dmndi:FontColor red="0" green="0" blue="0" />
         </dmndi:DMNStyle>
-        <dc:Bounds x="-400" y="60" width="100" height="50" />
+        <dc:Bounds x="-1100" y="-40" width="100" height="50" />
         <dmndi:DMNLabel id="_A590E0F4-4E57-4A65-AD2E-DC1B09B3217E" />
       </dmndi:DMNShape>
       <dmndi:DMNEdge id="dmnedge-drg-_095650F3-D09C-4CAC-BA29-49C99323CFCA" dmnElementRef="_095650F3-D09C-4CAC-BA29-49C99323CFCA" sourceElement="dmnshape-drg-_921a00ec-6199-4073-b139-494835a422ce" targetElement="dmnshape-drg-_7c68efef-3b20-4807-8d15-7f55995cc8fd">
-        <di:waypoint x="-470" y="200" />
-        <di:waypoint x="-350" y="110" />
+        <di:waypoint x="-1150" y="100" />
+        <di:waypoint x="-1050" y="10" />
       </dmndi:DMNEdge>
       <dmndi:DMNEdge id="dmnedge-drg-_7FDEA20B-5AB6-49F5-ADEC-DBEF83D3EF37" dmnElementRef="_7FDEA20B-5AB6-49F5-ADEC-DBEF83D3EF37" sourceElement="dmnshape-drg-_5e4d4ad2-97a3-4f51-a364-d8e8700d55fc" targetElement="dmnshape-drg-_7c68efef-3b20-4807-8d15-7f55995cc8fd">
-        <di:waypoint x="-230" y="200" />
-        <di:waypoint x="-350" y="110" />
+        <di:waypoint x="-930" y="100" />
+        <di:waypoint x="-1050" y="10" />
       </dmndi:DMNEdge>
     </dmndi:DMNDiagram>
   </dmndi:DMNDI>
